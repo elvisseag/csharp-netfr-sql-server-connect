@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_SQLServer_Conn
 {
-    class Product
+    public class Product
     {
         public int ProductId { get; set; }
         public string ProductName { get; set; }
